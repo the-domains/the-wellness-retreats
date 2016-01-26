@@ -1,0 +1,28 @@
+name: The Wellness Retreats
+favicon: null
+layout_spectrum: 0.3201944374013692
+typography_spectrum: 0.9672766432631761
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.012113653821870685
+  lightness: 0.3770199683494866
+  saturation: 0.18312972178682685
+  rhythmicContrast: 0.2701794686727226
+purpose: []
